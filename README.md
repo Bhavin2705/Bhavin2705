@@ -1,19 +1,19 @@
 # Hi there, I'm Bhavin Jain 👋  
 
-🚀 **Aspiring Frontend Developer** | Crafting sleek, interactive UIs with modern frameworks!  
-🎨 Passionate about **frontend innovation, 3D web, and user experience**.  
-🛠️ Exploring **React, JavaScript, and web animations**.  
+ **Aspiring Frontend Developer** | Crafting sleek, interactive UIs with modern frameworks!  
+ Passionate about **frontend innovation, 3D web, and user experience**.  
+ Exploring **React, JavaScript, and web animations**.  
 
 ---
 
-## 🏗️ About Me  
-- 🌌 Currently working on **frontend projects**, diving into **3D libraries** to add a new dimension (literally!) to my web experiences.  
-- 📚 Currently learning **React** and **DSA** *(just getting into **Queues**—one step closer to mastering problem-solving!)*  
-- 🏹 Always up for a challenge, breaking things to build them better!  
+## About Me  
+-  Currently working on **frontend projects**, diving into **3D libraries** to add a new dimension (literally!) to my web experiences.  
+- Currently learning **React** and **DSA** *(just getting into **Queues**—one step closer to mastering problem-solving!)*  
+- Always up for a challenge, breaking things to build them better!  
 
 ---
 
-## ⚡ Tech Stack  
+## Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,14 +29,14 @@
 
 ---
 
-## 🚀 Featured Projects  
+##  Featured Projects  
 - **[EnergiFit](https://github.com/Bhavin2705/EnergiFit)** - A stylish fitness club website built with HTML, CSS, and JavaScript.  
 - **[Social Media App (WIP)](https://github.com/Bhavin2705/Social-Media-App)** - Crafting an intuitive social networking platform with a custom UI.  
 - **[Claude Clone](https://github.com/Bhavin2705/Claude-Clone)** - Exploring AI-driven interfaces through this exciting clone project.  
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhavin2705&show_icons=true&theme=react" height="180"/>
@@ -45,10 +45,10 @@
 
 ---
 
-## 🔗 Let's Connect!  
+##  Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavin%20Jain-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavinjain2705/)  
-📧 **Email:** bhavinjain2705@gmail.com  
+ **Email:** bhavinjain2705@gmail.com  
 
 ---
 
-🌟 *"Always learning, always building!"*  
+ *"Always learning, always building!"*  
