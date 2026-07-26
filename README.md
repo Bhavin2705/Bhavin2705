@@ -39,12 +39,7 @@
 ##  GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavin2705&show_icons=true&theme=react" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=Bhavin2705&theme=react" height="180"/>
-</p>
-
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://streak-stats.demolab.com?user=Bhavin2705&theme=react" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
