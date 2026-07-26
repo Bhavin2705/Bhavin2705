@@ -40,7 +40,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhavin2705&show_icons=true&theme=react" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavin2705&theme=react" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Bhavin2705&theme=react" height="180"/>
 </p>
 
 <p align="center">
