@@ -43,6 +43,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavin2705&theme=react" height="180"/>
 </p>
 
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
 ---
 
 ##  Let's Connect!  
